@@ -1,7 +1,7 @@
 extends KinematicBody
 
 const GRAVITY := 20
-const JUMP_FORCE := 7
+const JUMP_FORCE := 10
 
 var mouse_sensitivy := 0.3
 var show_mouse := false
